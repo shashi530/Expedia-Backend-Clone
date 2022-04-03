@@ -59,5 +59,9 @@ The following is the tech stack we used to build this website :-
 3. [@Shashikant Patil](https://github.com/shashi530)
 
 
+
+## Blog
+ https://medium.com/@shashikantpatil8431/expedia-clone-11c553c484aa
+
 ## Clone Myntra-Frontend : 
       https://github.com/Omkar-WD/Expedia-Frontend-Clone/tree/main/expedia-frontend-clone
